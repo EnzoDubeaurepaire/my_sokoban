@@ -10,7 +10,7 @@ To get started with My Sokoban, follow these steps:
 
 1. **Clone the repository**: You can clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your_username/my_sokoban.git
+    git clone https://github.com/EnzoDubeaurepaire/my_sokoban.git
     ```
 
 2. **Navigate to the directory**: Once cloned, navigate to the directory where you cloned the repository:
